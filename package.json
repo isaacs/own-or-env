@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/isaacs/own-or-env/issues"
   },
-  "homepage": "https://github.com/isaacs/own-or-env#readme"
+  "homepage": "https://github.com/isaacs/own-or-env#readme",
+  "dependencies": {
+    "own-or": "^1.0.0"
+  }
 }
