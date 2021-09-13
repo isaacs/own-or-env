@@ -1,6 +1,6 @@
 {
   "name": "own-or-env",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use an objects own property, or an environment variable.  Optionally treat as a boolean if the env should be set to 1 or 0.",
   "main": "own-or-env.js",
   "scripts": {
